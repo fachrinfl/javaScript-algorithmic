@@ -1,4 +1,4 @@
-// Find the longest word in a string
+// Reverse in a string
 var strWords = "Greetings from Earth";
 
 // Basic Solution
